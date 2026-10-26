@@ -1,7 +1,7 @@
 * { box-sizing: border-box; }
 body { 
     margin: 0; 
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
     color: #183046; 
     background: #638b9f;
    
@@ -16,7 +16,6 @@ p {
     margin: 0 auto;  
     max-width: 1100px;
     background: white; 
-    margin: auto;
     border: 5px solid green;
     }
 .site-header { 
@@ -57,6 +56,7 @@ main {
      padding: 24px; 
      background-repeat: no-repeat;
      border: 5px solid #9a0a5e;
+     margin-bottom: 20px;
 
 }
  
